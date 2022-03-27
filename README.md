@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @twodimes23
+- 👋 Hi, I’m Aimee!
 - 👀 I’m interested in learning how to code and frontend development
-- 🌱 I’m currently learning HTML and CSS 
-- 💞️ I’m looking to collaborate on any future projects and mentorship 
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on any future projects
 - 📫 How to reach me here or email
 
 <!---
